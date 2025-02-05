@@ -7,6 +7,7 @@
 
 Örnek Dizi: ['apple', 'banana', 'cherry', 'date']
 */
+
 function carpma(sayi1 , sayi2){
     return sayi1 * sayi2 ;
 }
